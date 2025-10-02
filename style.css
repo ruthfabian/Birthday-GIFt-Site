@@ -12,6 +12,7 @@ body{
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  max-width: 90%;
 }
 
 #ruth{
@@ -40,14 +41,11 @@ h1, h2, h3, h4, p{
 
 .gift-section{
   margin-top: 50px;
-  /*display: flex;
-  justify-content: center;
-  flex-direction: column;
-  align-items: center; */
 }
 
 .gift-tittle{
   margin-top: 10px;
+  max-width: 95%;
 }
 
 .gift-hint{
@@ -94,7 +92,7 @@ h1, h2, h3, h4, p{
   width:400PX ;
   margin: 40px auto;
   font-size: 18px;
-
+  max-width: 90%;
 }
 
 footer a{
