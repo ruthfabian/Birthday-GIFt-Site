@@ -39,7 +39,6 @@ h1, h2, h3, h4, p{
 }
 
 .gift-section{
-  max-width: 90%;
   margin-top: 50px;
   /*display: flex;
   justify-content: center;
@@ -59,8 +58,8 @@ h1, h2, h3, h4, p{
   background-image: url(images/gift-cover.jpg);
   background-size: cover;
   margin: 0 auto;
-  width: 400px;
-  height: 400px;
+  width: 350px;
+  height: 350px;
   border: 6px solid white;
   border-radius: 5px;
 }
