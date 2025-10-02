@@ -41,11 +41,15 @@ h1, h2, h3, h4, p{
 
 .gift-section{
   margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
 }
 
 .gift-tittle{
   margin-top: 10px;
-  max-width: 95%;
+  max-width: 90%;
 }
 
 .gift-hint{
